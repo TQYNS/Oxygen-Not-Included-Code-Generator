@@ -1,2 +1,2 @@
-# Oxygen-Not-Included-Code-Generator
-缺氧代码生成器Oxygen Not Included Code Generator
+## 缺氧代码生成器
+### 使用方式 ：下载Release后解压即用
