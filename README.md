@@ -14,4 +14,13 @@
  - Microsoft Visual Studio 2022+
  - .Net 4.8+
 
+### 使用教程
+https://my.oschina.net/u/9760466/blog/19751888
+
 #### 反馈加群1107723160，有人用就更
+<br>
+<br>
+
+
+#### 赞助支持
+https://afdian.com/a/TQYNS?utm_source=copylink&utm_medium=link
